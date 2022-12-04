@@ -282,7 +282,7 @@ backend
 
 [시연 시나리오](https://www.notion.so/b20030b30ee5453c9da5d9f8cd680049)
 
-[**ERD**](https://www.notion.so/ERD-711741c69a0b48f8a5774769dcd526d7)
+[ERD](https://www.notion.so/ERD-711741c69a0b48f8a5774769dcd526d7)
 
 [아키텍쳐](https://www.notion.so/e1ed17e0f777440aaa3a4abb82d7c978)
 
