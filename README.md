@@ -342,13 +342,13 @@ backend
 
 ### 신화 게임
 
-- 처녀자리 - 물체와 상호작용
-
-<img src="./exec/gif/virgo.gif"  width="800" height="400"/>
-
 - 별자리 신화 관련 퀘스트
 
 <img src="./exec/gif/quest.gif"  width="800" height="400"/>
+
+- 처녀자리 - 물체와 상호작용
+
+<img src="./exec/gif/virgo.gif"  width="800" height="400"/>
 
 - 사자자리 - 미니게임(전투)
 
