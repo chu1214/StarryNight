@@ -1,11 +1,9 @@
 # **⭐ Starry Night : 멀기만 했던 별들과 가까워 지는 밤**
 
-![Logo](/uploads/af48a2b9e7a57bb61e8ab3d76f3dba4f/KakaoTalk_20221121_011112771.png)
+![starrynight](https://user-images.githubusercontent.com/90178949/206023738-2d0de804-becd-4a5e-9c95-a8d2090a2350.png)
 
-## **[Starry Night 링크](https://starry-night.kr/)**
-
-## **[UCC 링크 - 소개 영상 보기](https://www.youtube.com/watch?v=eVtlH42FHsQ)**
-
+## 📀 서비스 소개 영상
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/watch?v=eVtlH42FHsQ)
 ---
 
 ## 📖 주제
@@ -258,7 +256,7 @@ backend
 
 ---
 
-## 👥 **팀원 역할**
+## 👥 **팀원 주요 역할**
 
 ### BackEnd
 
@@ -280,17 +278,13 @@ backend
 
 ## **✔ 프로젝트 산출물**
 
-[시연 시나리오](https://www.notion.so/b20030b30ee5453c9da5d9f8cd680049)
+[ERD](https://github.com/chu1214/StarryNight/blob/main/exec/ERD.PNG)
 
-[ERD](https://www.notion.so/ERD-711741c69a0b48f8a5774769dcd526d7)
+[포팅 매뉴얼](https://github.com/chu1214/StarryNight/blob/main/exec/%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC_StarryNight.pdf)
 
-[아키텍쳐](https://www.notion.so/e1ed17e0f777440aaa3a4abb82d7c978)
+[시스템 아키텍쳐](https://github.com/chu1214/StarryNight/blob/main/exec/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png)
 
-[포팅 매뉴얼](https://www.notion.so/210edda704c04d9d80a3f8f4bba2ea44)
-
-[기능 명세서](https://www.notion.so/0491e225bf074ffdb1cabafae64bf87b)
-
-[와이어프레임](https://www.notion.so/8090b799c29c4699b08e2c4ac326dcc4)
+[시연 시나리오](https://github.com/chu1214/StarryNight/blob/main/exec/%EC%8B%9C%EC%97%B0_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.pdf)
 
 ---
 
@@ -298,119 +292,120 @@ backend
 
 ### 메인페이지
 
-![mainpage](/uploads/7cd68ded6bb71e450a40d0bb98f74336/mainpage.png)
-
-![mainpage2](/uploads/6d047ba95aeaadc900504cd816d66554/mainpage2.png)
-
-![mainpage3](/uploads/9054ad229e1386b4d841100c5d4817bd/mainpage3.png)
-
-![mainpage4](/uploads/a0fb4151d359aba30745d2033a093a9c/mainpage4.png)
-
-![mainpage5](/uploads/3048a0a23ddff1dcf924085bc3097ad8/mainpage5.png)
-
-![mainpage6](/uploads/aab65e455a8d680581de420ee0d4a7b0/mainpage6.png)
-
 - Starry Night에서 제공하는 서비스들을 한눈에 볼 수 있습니다.
+
+<img src="./exec/gif/mainpage.png"  width="800" height="400"/>
+
+<img src="./exec/gif/mainpage2.png"  width="800" height="400"/>
+
+<img src="./exec/gif/mainpage3.png"  width="800" height="400"/>
+
+<img src="./exec/gif/mainpage4.png"  width="800" height="400"/>
+
+<img src="./exec/gif/mainpage5.png"  width="800" height="400"/>
+
+<img src="./exec/gif/mainpage6.png"  width="800" height="400"/>
 
 ### 로그인
 
-![login](/uploads/b9b50f944c169c57ce7145990ce03ab0/login.png)
-
 - 카카오 & 구글 소셜 로그인을 제공
 
-### 다락방
+<img src="./exec/gif/login.png"  width="800" height="400"/>
 
-![main-room](/uploads/27787d048081c06494a0d20eabd970b2/main-room.png)
+### 다락방
 
 - 메인 서비스 3가지를 이용할 수 있음
     - **신화 게임**
     - **밤하늘 보기**
     - **방 꾸미기**
 
-![other-room](/uploads/246f2baaba301919102cc65b45f57d18/other-room.gif)
+<img src="./exec/gif/main-room.png"  width="800" height="400"/>
 
 - **유성 타기** - 다른 사용자들의 다락방을 구경할 수 있음
 
-### 책 펼치기
+<img src="./exec/gif/other-room.gif"  width="800" height="400"/>
 
-![book](/uploads/73ed08fcb0147b67b8096a8a4c4b85ab/book.png)
+
+### 책 펼치기
 
 - 책 펼치기 - 신화 게임들을 플레이할 수 있는 공간
 
-![readMyth](/uploads/668ecb96432467d6c06c221343846738/readMyth.png)
+<img src="./exec/gif/book.png"  width="800" height="400"/>
 
 - 신화 읽기 - 클리어한 신화 게임의 별자리에 대한 정보들을 제공
 
-![tutorial](/uploads/5c8839b9ed1bf1fbeeb6ed63181c4050/tutorial.png)
+<img src="./exec/gif/readMyth.png"  width="800" height="400"/>
 
 - 튜토리얼 - 신화 게임의 조작법을 설명하는 게임 가이드
 
-### 신화 게임
+<img src="./exec/gif/tutorial.png"  width="800" height="400"/>
 
-![virgo](/uploads/028d32b9f5b2d62b8056e7cb9a85de53/virgo.gif)
+### 신화 게임
 
 - 처녀자리 - 물체와 상호작용
 
-![quest](/uploads/742e9e0886368eb39db53fe3a135a7d9/quest.gif)
+<img src="./exec/gif/virgo.gif"  width="800" height="400"/>
 
 - 별자리 신화 관련 퀘스트
 
-![lion](/uploads/e1a013b5e69b6ab08db605228afebff7/lion.gif)
+<img src="./exec/gif/quest.gif"  width="800" height="400"/>
 
 - 사자자리 - 미니게임(전투)
 
-![perseus](/uploads/5e9f3b26b40078ddf00f9d621278b4dd/perseus.gif)
+<img src="./exec/gif/lion.gif"  width="800" height="400"/>
 
 - 페르세우스자리 - 미니게임(공포게임)
 
-![cassiopeia](/uploads/3e7385ab5bdeef97d93b477ff6dcc456/cassiopeia.gif)
+<img src="./exec/gif/perseus.gif"  width="800" height="400"/>
 
 - 카시오페이아자리 - 미니게임(미로)
 
-![lyra](/uploads/3865d2c12ae05752f82bba20cc2a42a1/lyra.gif)
+<img src="./exec/gif/cassiopeia.gif"  width="800" height="400"/>
 
 - 거문고자리 - 미니게임(점프맵)
 
-### 밤하늘 보기
+<img src="./exec/gif/lyra.gif"  width="800" height="400"/>
 
-![1](/uploads/08afb07d1ef881dbe263498f394bdb7f/1.png)
+### 밤하늘 보기
 
 - PC로 별 보기 / VR로 별 보기 - 2가지 모드로 플레이 가능
 
-![2](/uploads/ec7c0a8f6fca15f36c10fd579799abfd/2.png)
+<img src="./exec/gif/1.png"  width="800" height="400"/>
 
 - 튜토리얼 - (다운로드, 컨텐츠 소개, 조작 방법)에 관련된 정보를 사용자에게 제공)
 
-![firework](/uploads/680dfb739a465c0693b5449bfa004264/firework.gif)
+<img src="./exec/gif/2.png"  width="800" height="400"/>
 
 - 불꽃 놀이
 
-![star-item](/uploads/75cc604a25e572a70e309a6fc5bbeda1/star-item.gif)
+<img src="./exec/gif/firework.gif"  width="800" height="400"/>
 
 - 스타(아이템) 획득을 통한 특수능력 부여
 
-![change-star](/uploads/445bd25a95da5dc82b703f77fd86d9a4/change-star.gif)
-
-![selectCity](/uploads/8d2460f8c344393cf11e88f4a6f6f55e/selectCity.gif)
+<img src="./exec/gif/star-item.gif"  width="800" height="400"/>
 
 - 도시 변경으로 별자리 위치 변경
 
-![onOffInfo](/uploads/d61f278c77c7384a46bf968d586b9f1a/onOffInfo.gif)
+<img src="./exec/gif/change-star.gif"  width="800" height="400"/>
+
+<img src="./exec/gif/selectCity.gif"  width="800" height="400"/>
 
 - 별자리 정보 ON/OFF
 
-![star-information](/uploads/c55f6dfa6b69417f825516f574022d7e/star-information.gif)
+<img src="./exec/gif/onOffInfo.gif"  width="800" height="400"/>
 
 - 별을 클릭하여 별의 자세한 정보 확인
 
-### 상점 가기
+<img src="./exec/gif/star-information.gif"  width="800" height="400"/>
 
-![shop-buy](/uploads/2e0b7578f9a116e028b0f318c7652ddf/shop-buy.gif)
+### 상점 가기
 
 - 신화 게임에서 얻은 재화로 방을 꾸밀 수 있는 아이템을 구매 가능
 
+<img src="./exec/gif/shop-buy.gif"  width="800" height="400"/>
+
 ### 방 꾸미기
 
-![change-room](/uploads/e66653a25938956556985fe72789500b/change-room.gif)
-
 - 구매한 가구를 이용하여 자신의 다락방을 꾸밀 수 있습니다.
+
+<img src="./exec/gif/change-room.gif"  width="800" height="400"/>
