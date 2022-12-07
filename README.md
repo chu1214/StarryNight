@@ -2,6 +2,20 @@
 
 ![starrynight](https://user-images.githubusercontent.com/90178949/206023738-2d0de804-becd-4a5e-9c95-a8d2090a2350.png)
 
+<img src="./exec/gif/star-information.gif"  width="800" height="400"/>
+
+- 별자리 관측
+    - 세계 15개국의 실시간 밤하늘을 메타버스 내에서 다른 사람들과 동시에 볼 수 있습니다.
+    - 별을 클릭하여 자세한 정보를 볼 수 있습니다.
+    - 별은 데이터를 기반으로 실제 위치에 밝기에 비례한 크기와 적절한 색으로 생성됩니다.
+    - 불꽃놀이, 특수 효과 등 멀티플레잉을 즐길 수 있는 요소가 있습니다.
+- 별자리 신화 게임
+    - 공인된 88개 별자리 중 5개 별자리 신화를 미니게임을 해결하며 자연스럽게 익힐 수 있습니다.
+    - 서비스에서 추가적으로 사용할 수 있는 스타코인을 수집할 수 있습니다.
+- 다락방 꾸미기
+    - 별자리 신화 게임에서 수집한 스타코인을 통해 웹에서 자신만의 방을 꾸밀 수 있습니다.
+    - 유성타기 기능을 통해 다른 사람들의 다락방을 구경할 수 있습니다.
+
 ## 📀 서비스 소개 영상
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/watch?v=eVtlH42FHsQ)
 ---
